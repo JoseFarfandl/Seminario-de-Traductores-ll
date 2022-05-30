@@ -53,6 +53,7 @@ Modulo 3(Analizador Sintactico(objetos))
 
 Gramatica del compilador Modulo 4
   {
+  Esta parte del programa es una mejora de las partes anteriores solo que ahora ya comprende y entiende el archivo lr el cual contiene la tabla de simbolos que es leida y guardada en una matriz para poder ser empleada para la ejecucion del programa
   ![image](https://user-images.githubusercontent.com/92611433/171045620-07cc663a-d76d-443c-bd84-43def58e986b.png)
     .
     . 
@@ -62,13 +63,13 @@ Gramatica del compilador Modulo 4
   }
 
 
-Arbol Sintactico Modulo 5
-  {
-  }
-
 
 Analisis Semantico
   {
+  Implementacion del analisis Semantico ya finalizado el cual comprende todos los modulos vistos en clase
+  
+  ![image](https://user-images.githubusercontent.com/92611433/171046185-b1500911-e086-4c8a-ad7e-af6d23b21953.png)
+
   }
 
 
